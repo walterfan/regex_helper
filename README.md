@@ -8,7 +8,7 @@ It's useful to me and someone may like it, so I extract it from old code repo an
 
 Please star it if you like it.
 
-Please raise issue to me if you want new functions.
+Please raise git issue if you want new functions, or you can submit a PR to enhance it by yourself.
 
 Thanks, Walter
 
