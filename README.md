@@ -20,8 +20,15 @@ Thanks, Walter
 
 3. compile and package, JDK is required
 
-    mvn clean compile assembly:single
-    
+```sh
+mvn clean package
+```
+
 4. run it
 
-    start.sh or start.bat    
+```sh
+# windows
+./target/regex_helper.exe
+# macos or linux
+./target/regex_helper
+```
